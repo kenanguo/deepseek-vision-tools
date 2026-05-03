@@ -1,6 +1,8 @@
-# Cola 图片分析工具
+# DeepSeek Vision Tools
 
-让不支持多模态的 AI 模型也能"看"图片。基于 macOS 内置 Vision 框架，无需额外安装。
+让不支持多模态的 DeepSeek 模型也能"看"图片。基于 macOS 内置 Vision 框架，无需额外安装。
+
+> 适用于 DeepSeek V4、Codex 等任何不支持图片输入的 AI 模型。
 
 ## 文件
 
@@ -27,7 +29,7 @@ macOS 自带 Swift，无需安装任何依赖。
 
 ## AI 如何调用
 
-在 Cola 或其他 AI Agent 中：
+在 DeepSeek、Cola 或其他 AI 中：
 1. 用户发图 → Agent 调 `image_ocr.swift` 读文字
 2. 调 `image_describe.swift` 识别场景
 3. 两个结果组合起来就是完整的图片描述
