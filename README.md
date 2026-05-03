@@ -29,7 +29,7 @@ macOS 自带 Swift，无需安装任何依赖。
 
 ## AI 如何调用
 
-在 DeepSeek、Cola 或其他 AI 中：
+在 DeepSeek 或其他 AI 中：
 1. 用户发图 → Agent 调 `image_ocr.swift` 读文字
 2. 调 `image_describe.swift` 识别场景
 3. 两个结果组合起来就是完整的图片描述
