@@ -2,7 +2,7 @@
 
 让不支持多模态的 DeepSeek 模型也能"看"图片。基于 macOS 内置 Vision 框架，无需额外安装。
 
-> 适用于 DeepSeek V4、Codex 等任何不支持图片输入的 AI 模型。
+> 适用于 DeepSeek V4等任何不支持图片输入的 AI 模型。
 
 ## 文件
 
